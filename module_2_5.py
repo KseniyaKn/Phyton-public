@@ -4,7 +4,7 @@ def get_matrix(n, m, value):
         list = []
         matrix.append(list)
         for j in range(m):
-            list. append(value)
+            list.append(value)
     return matrix
 
 result1 = get_matrix(2, 2, 10)
